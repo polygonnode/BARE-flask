@@ -1,4 +1,6 @@
-# BT Club learning app
+# Bare flask repository
+
+Just a basic flask Structure
 
 to get working use the following commands
 
